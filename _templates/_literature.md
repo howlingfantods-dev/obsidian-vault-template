@@ -1,5 +1,5 @@
 ---
-date: <% tp.date.now("YYYY-MM-DD") %>
+createdAt: "{{date}} - {{time}}"
 type: literature
 tags:
 ---
