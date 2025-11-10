@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "51c3a397f65a5357",
+        "id": "8c99c078bc130c12",
         "type": "tabs",
         "children": [
           {
-            "id": "14cfde44b588a1cc",
+            "id": "fb73300e0a8767a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,8 +180,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "14cfde44b588a1cc",
+  "active": "fb73300e0a8767a6",
   "lastOpenFiles": [
+    "_resources/README.md",
+    "_resources/SYSTEMS.md",
+    "_resources/ZETTEL.md",
+    "_templates/_source.md",
+    "_templates/topic.md",
+    "_templates/_permanent.md",
     "_templates/_literature.md",
     "_templates/_daily.md",
     "_templates/_source.md",
@@ -213,4 +219,3 @@
     "Pasted image 20251108093522.png",
     "Untitled.base"
   ]
-}
