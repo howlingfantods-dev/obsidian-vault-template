@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/_source.md",
+                "file": "_resources/ZETTEL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_source"
+              "title": "ZETTEL"
             }
           }
         ]
@@ -181,13 +181,13 @@
   },
   "active": "14cfde44b588a1cc",
   "lastOpenFiles": [
-    "_templates/topic.md",
+    "_resources/SYSTEMS.md",
     "_templates/_source.md",
+    "_templates/topic.md",
     "_templates/_permanent.md",
     "_templates/_literature.md",
     "_templates/_daily.md",
     "_resources/README.md",
-    "_resources/SYSTEMS.md",
     "_resources/ZETTEL.md",
     "_templates/zettel.md",
     "_assets/fleeting-note-example.png",
