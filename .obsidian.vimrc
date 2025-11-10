@@ -74,10 +74,3 @@ vnoremap K :m '<-2<CR>gv=gv
 nnoremap Q <nop>
 nnoremap q <nop>
 nnoremap <C-z> <nop>
-
-" ----- Miscellaneous -----
-" Toggle wrapping
-nnoremap <leader>wr :set wrap!<CRugroup highlight_yank
-  autocmd!
-  autocmd TextYankPost * silent! lua vim.highlight.on_yank()
-augroup END
