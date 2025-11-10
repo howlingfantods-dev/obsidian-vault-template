@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "qeqeqe.md",
+                "file": "_resources/ZETTEL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for qeqeqe"
+              "title": "Backlinks for ZETTEL"
             }
           },
           {
@@ -141,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_resources/ZETTEL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of ZETTEL"
             }
           },
           {
@@ -159,12 +160,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,15 +180,15 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "14cfde44b588a1cc",
+  "active": "32e64a5565daacd7",
   "lastOpenFiles": [
     "_resources/SYSTEMS.md",
+    "_resources/README.md",
     "_templates/_source.md",
     "_templates/topic.md",
     "_templates/_permanent.md",
     "_templates/_literature.md",
     "_templates/_daily.md",
-    "_resources/README.md",
     "_resources/ZETTEL.md",
     "_templates/zettel.md",
     "_assets/fleeting-note-example.png",
