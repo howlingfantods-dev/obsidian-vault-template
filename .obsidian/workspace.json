@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templates/_source.md",
+                "file": "_resources/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_source"
+              "title": "README"
             }
           }
         ]
@@ -155,6 +155,16 @@
             "state": {
               "type": "journal-calendar",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "journal-calendar"
+            }
+          },
+          {
+            "id": "ae4a622d5ae21a82",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
               "icon": "calendar-days",
               "title": "Calendar"
             }
@@ -175,20 +185,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "14cfde44b588a1cc",
+  "active": "6d06031f2a2acd0e",
   "lastOpenFiles": [
-    "_templates/topic.md",
-    "_templates/_source.md",
-    "_templates/_permanent.md",
-    "_templates/_literature.md",
-    "_templates/_daily.md",
     "_resources/README.md",
     "_resources/SYSTEMS.md",
     "_resources/ZETTEL.md",
+    "_templates/_source.md",
+    "_templates/topic.md",
+    "_templates/_permanent.md",
+    "_templates/_literature.md",
+    "_templates/_daily.md",
     "_templates/zettel.md",
     "_assets/fleeting-note-example.png",
     "rwrwrwr.md",
