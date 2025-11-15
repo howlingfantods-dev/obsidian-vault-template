@@ -159,13 +159,13 @@
       "templates": [
         "_templates/_weekly.md"
       ],
-      "start": "2025-11-10",
+      "start": "2025-11-09",
       "end": {
         "type": "never"
       },
       "index": {
         "enabled": false,
-        "anchorDate": "2025-11-10",
+        "anchorDate": "2025-11-09",
         "anchorIndex": 1,
         "allowBefore": false,
         "type": "increment",

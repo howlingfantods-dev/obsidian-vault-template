@@ -58,8 +58,6 @@ set textwidth=80
 set colorcolumn=80
 set cursorline
 set list
-set listchars=tab:»\ ,trail:·,nbsp:␣
-set termguicolors
 
 " ----- Navigation Quality of Life -----
 nnoremap <silent> <Space> <Nop>
