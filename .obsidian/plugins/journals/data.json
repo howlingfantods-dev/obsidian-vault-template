@@ -291,7 +291,9 @@
       "nameTemplate": "{{date}}-stream",
       "dateFormat": "YYYY-[W]w",
       "folder": "_weeklys",
-      "templates": [],
+      "templates": [
+        "_templates/_weekly.md"
+      ],
       "start": "2025-11-16",
       "end": {
         "type": "never"

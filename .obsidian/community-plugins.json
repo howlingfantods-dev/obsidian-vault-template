@@ -2,5 +2,6 @@
   "obsidian-vimrc-support",
   "vim-yank-highlight",
   "templater-obsidian",
-  "journals"
+  "journals",
+  "obsidian-git"
 ]
