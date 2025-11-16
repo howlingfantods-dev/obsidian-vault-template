@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a42a47b30238ecc4",
@@ -209,9 +208,9 @@
   "active": "639e0d36d764e60f",
   "lastOpenFiles": [
     "_weeklys/2025-W47-fitness-and-health.md",
-    "_weeklys/2025-W46-work.md",
-    "_weeklys/2025-W47-work.md",
     "_weeklys/2025-W47-stream.md",
+    "_weeklys/2025-W47-work.md",
+    "_weeklys/2025-W46-work.md",
     "Untitled.md",
     "_resources/README.md",
     "_templates/_weekly.md",
