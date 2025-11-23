@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "76964bbb001b452a",
+        "id": "abe03ae4c81e9e5c",
         "type": "tabs",
         "children": [
           {
-            "id": "639e0d36d764e60f",
+            "id": "9bb630f06c3a72d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_weeklys/2025-W47-stream.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-W47-stream"
+              "title": "New tab"
             }
           }
         ]
@@ -204,10 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "639e0d36d764e60f",
+  "active": "9bb630f06c3a72d6",
   "lastOpenFiles": [
-    "_weeklys/2025-W47-fitness-and-health.md",
     "_weeklys/2025-W47-stream.md",
+    "_weeklys/2025-W47-fitness-and-health.md",
     "_weeklys/2025-W47-work.md",
     "_weeklys/2025-W46-work.md",
     "Untitled.md",

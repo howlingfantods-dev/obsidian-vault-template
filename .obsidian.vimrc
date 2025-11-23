@@ -56,7 +56,6 @@ set shiftwidth=2
 set expandtab
 set textwidth=80
 set colorcolumn=80
-set cursorline
 
 " ----- Navigation Quality of Life -----
 nnoremap <silent> <Space> <Nop>
