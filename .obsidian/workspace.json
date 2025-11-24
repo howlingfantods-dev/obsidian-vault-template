@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abe03ae4c81e9e5c",
+        "id": "8d199de585f2837a",
         "type": "tabs",
         "children": [
           {
-            "id": "9bb630f06c3a72d6",
+            "id": "436a00ecfa9a2f94",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -168,23 +168,14 @@
               "icon": "calendar-days",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "e0b3821ed6652d37",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,23 +187,33 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "9bb630f06c3a72d6",
+  "active": "436a00ecfa9a2f94",
   "lastOpenFiles": [
-    "_weeklys/2025-W47-stream.md",
-    "_weeklys/2025-W47-fitness-and-health.md",
+    "self-perceived-value.md",
+    "_weeklys/2025-W48-fitness-and-health.md",
+    "_weeklys/2025-W48-stream.md",
+    "_weeklys/2025-W48-work.md",
+    "_sort-created.md.md",
+    "Untitled.base",
+    "Users/erwinbofetiado/Vaults/personal/_templates",
+    "Users/erwinbofetiado/Vaults/personal",
+    "Users/erwinbofetiado/Vaults",
+    "Users/erwinbofetiado",
+    "Users",
+    "_templates/_daily.md",
     "_weeklys/2025-W47-work.md",
-    "_weeklys/2025-W46-work.md",
-    "Untitled.md",
-    "_resources/README.md",
+    "_weeklys/2025-W47-stream.md",
     "_templates/_weekly.md",
+    "_weeklys/2025-W47-fitness-and-health.md",
+    "_weeklys/2025-W46-work.md",
+    "_templates/_leetcode.md",
+    "_resources/README.md",
     "_assets/fleeting-note-example.png",
     "_resources/ZETTEL.md",
     "_templates/_source.md",
-    "_templates/_daily.md",
     "_templates/_literature.md",
     "_templates/_permanent.md",
     "_templates",
